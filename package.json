@@ -1,0 +1,9 @@
+{
+    "name": "menupopup",
+    "description": "menuPopup for Jetpacks",
+    "keywords": ["menu", "menuPopup", "ui"],
+    "author": "Yaelle Fany Borghini",
+    "version": "0.1",
+    "license": "MIT/X11", 
+    "dependencies": ["api-utils", "vold-utils"]
+}
